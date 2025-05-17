@@ -23,14 +23,14 @@ body {
 .header-logo {
   position: absolute;
   top: 0.1em;
-  left: 1em;
+  left: 0em;
   width: 200px;
   height: auto;
   
 }
 
 .header-titles {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 .header-titles h1 {
