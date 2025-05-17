@@ -23,7 +23,7 @@ body {
 .header-logo {
   position: absolute;
   top: 0.1em;
-  left: 0em;
+  left: 0;
   width: 200px;
   height: auto;
   
