@@ -51,8 +51,8 @@ body {
 }
 
 img {
-  width: 400px;
-  height: 600px;
+  width: 200px;
+  height: 100px;
   object-fit: cover;
   display: block;
   margin: 0 auto 5em;
